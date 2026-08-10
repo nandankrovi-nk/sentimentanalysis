@@ -1,0 +1,7 @@
+review_id,product_name,product_id,title,author,rating,content,timestamp,profile_id,is_verified,helpful_count,product_attributes
+demo-001,Beats Solo 4,DEMO,Great sound,Demo User,5,Comfortable headphones with great sound and excellent battery life.,2024-01-05,demo,True,4,Black
+demo-002,Beats Solo 4,DEMO,Good but missing ANC,Demo User,4,"The sound and battery are good, but I wish it had active noise cancellation.",2024-02-10,demo,True,2,Black
+demo-003,Beats Solo 4,DEMO,Uncomfortable,Demo User,2,The earcups feel uncomfortable after a long time and the fit is tight.,2024-03-12,demo,True,1,Blue
+demo-004,Sony WH-CH520,DEMO,Good value,Demo User,4,Comfortable and affordable with good battery life.,2024-01-20,demo,True,3,Black
+demo-005,Sony WH-CH520,DEMO,Fit issue,Demo User,2,The fit is not great and the sound quality could be better.,2024-02-22,demo,True,1,White
+demo-006,Bose QuietComfort,DEMO,Excellent ANC,Demo User,5,Excellent noise cancellation and very comfortable for travel.,2024-04-02,demo,True,5,Black
